@@ -1,9 +1,9 @@
-# irMagician
+# DIKIN AC command for irMagician
 
 [irMagician](http://www.omiya-giken.com/?page_id=837&lang=en)
 
 ## Structure
-DAIKIN AC IR command is variant of the AEHA format.
+DAIKIN AC IR command is variant of the AEHA format (Bi–phase coding).
 
 The DAIKIN command is mainly divided into four parts.
 
