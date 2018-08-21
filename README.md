@@ -15,3 +15,5 @@ The DAIKIN command is divided into four parts.
 ## Link
 
 [IR Daikin: decodificare protocolli infrarossi complessi. | McMajan](http://www.mcmajan.com/mcmajanwpr/blog/2013/10/21/ir-daikin-decodificare-protocolli-infrarossi-complessi/)
+
+[Daikin-IR-Reverse: Daikin AC Infrared remote control protocol reverse](https://github.com/blafois/Daikin-IR-Reverse)
